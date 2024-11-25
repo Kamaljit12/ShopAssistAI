@@ -1,4 +1,2 @@
 data/
 .venv
-# Ignore all .txt files in nested directories
-**/*.txt
