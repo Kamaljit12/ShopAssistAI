@@ -22,6 +22,9 @@ In the digital shopping era, the abundance of options can make it difficult for 
 ## High Level System Design
 ![system_design](https://github.com/user-attachments/assets/a9a8e6ae-9bd2-4d44-b51a-653324ebddba)
 
+## Stage Flow
+<img width="836" alt="CompleteFlow" src="https://github.com/user-attachments/assets/c6047f65-3b0e-4842-9552-187f946ffef9">
+
 
 ## 🚀 Solution Approach
 #### 1. `Conversation and Information Gathering`
