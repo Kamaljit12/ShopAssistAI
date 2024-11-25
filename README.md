@@ -94,7 +94,7 @@ The project uses a dataset containing the following:
 - Multi-Language Support: Expand chatbot capabilities to support diverse user bases.
 
 ## Acknowledgements
-- This Project is a part of my assignment for Post Graduate Diploma Degree in AI & ML at IIIT-Bangalore
+- This project is part of my assignment for the Post Graduate Diploma in AI & ML from IIIT-Bangalore.
 
 ## ✍️ Author
 Developed by [Upendra Kumar]. For queries, reach out at [upendra.kumar48762@gmail.com].
