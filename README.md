@@ -19,6 +19,10 @@ In the digital shopping era, the abundance of options can make it difficult for 
 - `Extract insights:` Use LLMs and rule-based reasoning to map user preferences to the dataset.
 - `Recommend effectively:` Suggest the top three laptops matching user needs and answer follow-up queries.
 
+## High Level System Design
+![system_design](https://github.com/user-attachments/assets/a9a8e6ae-9bd2-4d44-b51a-653324ebddba)
+
+
 ## 🚀 Solution Approach
 #### 1. `Conversation and Information Gathering`
 - The chatbot initiates a natural conversation to collect user requirements, such as budget, specifications, and usage needs.
